@@ -5,7 +5,7 @@ const home = () => {
     return (
         <Def>
             <main>
-                <h1>HOME</h1>
+                <h1>REST-Rant</h1>
                 <div>
                     <img src="/images/burgerimg.jpg" alt="Image of Burger" height="400" width="600" />
                     <div>
