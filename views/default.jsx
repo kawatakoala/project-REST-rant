@@ -23,11 +23,11 @@ function Def(html) {
                     </ul>
                 </nav>
                 {html.children}
-                <div class="wrapper">
+                <div className="wrapper">
                     <h3>Michael Kawata</h3>
-                    <div class="push"></div>
+                    <div className="push"></div>
                 </div>
-                <footer class="footer"></footer>
+                <footer className="footer"></footer>
             </body>
         </html>
     )
