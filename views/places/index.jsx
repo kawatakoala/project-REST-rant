@@ -13,7 +13,7 @@ const index = (data) => {
                 <p className="text-center">
                     {place.cuisines}
                 </p>
-                <img className="placeimage" src={place.pic} alt={place.name} />
+                <img src={place.pic} alt={place.name} />
                 <p className="text-center">
                     Located in {place.city}, {place.state}
                 </p>
